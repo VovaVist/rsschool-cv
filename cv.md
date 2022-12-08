@@ -45,4 +45,4 @@ At the moment there is no commercial experience in the field of programming
 
 # Languages
 * Russian(native)
-* English(B1
+* English(B1)
