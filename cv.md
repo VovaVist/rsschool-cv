@@ -30,4 +30,4 @@ console.log('Hello World!');
 
 # Languages:
 * Russian (native)
-* English (B1
+* English (B1)
