@@ -7,7 +7,7 @@
 * Telegram: macshnaknax
 
 # About me:
-I am just start to learn JavaScript. I believe that i can become frontend developer!
+I am just start to learn JavaScript. I believe that i can become frontend developer!!!
 
 # Skills:
 1. HTML
